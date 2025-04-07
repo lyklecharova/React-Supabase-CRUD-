@@ -27,28 +27,28 @@ This is a simple **React Todo List App** that integrates with **Supabase** for b
 ---
 
 ## 📁 Project Structure
-
-React-Supabase-CRUD-/
-├─ .vscode/
-│ └─ settings.json
-├─ my-react-supabase-app/
-│ ├─ public/
-│ │ └─ vite.svg
-│ ├─ src/
-│ │ ├─ assets/
-│ │ │ └─ react.svg
-│ │ ├─ App.css
-│ │ ├─ App.jsx
-│ │ ├─ index.css
-│ │ ├─ main.jsx
-│ │ └─ supbase-client.js
-│ ├─ .env
-│ ├─ .gitignore
-│ ├─ eslint.config.js
-│ ├─ index.html
-│ ├─ package-lock.json
-│ ├─ package.json
-│ ├─ README.md
-│ └─ vite.config.js
-├─ LICENSE
-└─ README.md
+```React-Supabase-CRUD/
+├── .vscode/
+│   └── settings.json
+├── my-react-supabase-app/
+│   ├── public/
+│   │   └── vite.svg
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── react.svg
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   ├── index.html
+│   │   ├── main.jsx
+│   │   └── supabase-client.js
+│   ├── .env
+│   ├── .gitignore
+│   ├── eslintrc.cjs
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   └── vite.config.js
+├── LICENSE
+└── R
