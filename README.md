@@ -51,4 +51,4 @@ This is a simple **React Todo List App** that integrates with **Supabase** for b
 │   ├── README.md
 │   └── vite.config.js
 ├── LICENSE
-└── R
+└──  README.md
